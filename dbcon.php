@@ -9,8 +9,6 @@
     if (!$connection){
         die('Connection Failed');
     }
-    else{
-        echo 'Connection Successful';
-    }
+   
 
 ?>
